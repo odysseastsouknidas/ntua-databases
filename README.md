@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Logo" width="400">
+</p>
+
 # Databases
 ### ECE NTUA - Flow L: Computer Software - 6th Semester
 ### Academic Year 2023–24
